@@ -1,5 +1,5 @@
-# Sales Analysis ATLIQ
-Sales analysis and Insights of a hardware company (ATLIQ) across India.
+# Sales Analysis CUBIT
+Sales analysis and Insights of a hardware company (CUBIT) across India.
 
 Here I am analysing and visualising how sales and revenue of different products are distributed across the country by using
 * SQL queries, and
